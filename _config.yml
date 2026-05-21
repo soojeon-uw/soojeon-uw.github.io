@@ -27,7 +27,7 @@ author:
   name             : "Soo Jeon"
   pronouns         : # example: "she/her"  
   bio              : "Mechatronics Engineer"
-#  location         : "Earth"
+  location         : "Earth"
   employer         : "University of Waterloo"
   uri              : # URL
   email            : "soojeon@uwaterloo.ca" 
