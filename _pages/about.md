@@ -1,15 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Soo Jeon's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Soo Jeon is a Professor in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Professor Jeon’s expertise lies in the broad areas of mechatronics, dynamic systems, instrumentation and control. He has been working on research projects related to applied instrumentation, sensory data processing, robotic manipulation, autonomous mobile robots, and nonlinear dynamics of controlled mechanical systems.
+
+Professor Jeon is the recipient of the Rudolf Kalman Best Paper Award from the American Society of Mechanical Engineers (ASME) for the year 2010, the Discovery Accelerator Supplement Award from the NSERC for the year 2015 and the Engineer of the Year Award from AKCSE (Association of Korean-Canadian Scientists and Engineers) and KOFST (The Korean Federation of Science and Technology Societies) in 2020.
+
+He is a member of ASME, IEEE and CSME. He has served as an associate editor for ASME Journal of Dynamic Systems, Measurement and Control (2016 - 2020), IEEE Transactions on Automation Science and Engineering (2016 - 2019), IEEE/ASME Transactions on Mechatronics (2020 -) and IEEE Robotics and Automation Letters (2022 -).
+
+[Link to Lab](https://uwaterloo.ca/wmscl) (for the list of research topics and others)
+
+[Link to our Github](https://github.com/UW-Advanced-Robotics-Lab) (for activities on autonomous robot)
+
+A note to applicants:
+======
+Please understand that, due to the sheer volume of emails, I cannot reply to all emails of inquiries related to admission to our graduate program (or to my lab). In particular, please avoid sending me multiple emails for the reason that you did not get my response. Sorry for not being able to reply to all your emails, but such emails are loading up my mail folders beyond what I can handle. Like many other faculty members in our school, I rarely hire students from unsolicited individual emails to me. If you are interested to join my laboratory, you may have a better chance of getting attention by submitting your application to [Admissions Office](https://uwaterloo.ca/admissions/) and indicate my name as "Potential Supervisor".
 
 A data-driven personal website
 ======
