@@ -15,9 +15,9 @@ Professor Jeon is the recipient of the Rudolf Kalman Best Paper Award from the A
 
 He is a member of ASME, IEEE and CSME. He has served as an associate editor for ASME Journal of Dynamic Systems, Measurement and Control (2016 - 2020), IEEE Transactions on Automation Science and Engineering (2016 - 2019), IEEE/ASME Transactions on Mechatronics (2020 -) and IEEE Robotics and Automation Letters (2022 -).
 
-[Link to Lab](https://uwaterloo.ca/wmscl){:target="_blank"} (for the list of research topics and others)
+- Item [Link to Lab](https://uwaterloo.ca/wmscl){:target="_blank"} (for the list of research topics and others)
 
-[Link to our Github](https://github.com/UW-Advanced-Robotics-Lab){:target="_blank"} (for activities on autonomous robot)
+- Item [Link to our Github](https://github.com/UW-Advanced-Robotics-Lab){:target="_blank"} (for activities on autonomous robot)
 
 <u>A note to applicants</u>:
 ======
