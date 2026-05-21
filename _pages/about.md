@@ -15,11 +15,11 @@ Professor Jeon is the recipient of the Rudolf Kalman Best Paper Award from the A
 
 He is a member of ASME, IEEE and CSME. He has served as an associate editor for ASME Journal of Dynamic Systems, Measurement and Control (2016 - 2020), IEEE Transactions on Automation Science and Engineering (2016 - 2019), IEEE/ASME Transactions on Mechatronics (2020 -) and IEEE Robotics and Automation Letters (2022 -).
 
-[Link to Lab](https://uwaterloo.ca/wmscl) (for the list of research topics and others)
+[Link to Lab](https://uwaterloo.ca/wmscl){:target="_blank"} (for the list of research topics and others)
 
-[Link to our Github](https://github.com/UW-Advanced-Robotics-Lab) (for activities on autonomous robot)
+[Link to our Github](https://github.com/UW-Advanced-Robotics-Lab){:target="_blank"} (for activities on autonomous robot)
 
-A note to applicants:
+<u>A note to applicants</u>:
 ======
 Please understand that, due to the sheer volume of emails, I cannot reply to all emails of inquiries related to admission to our graduate program (or to my lab). In particular, please avoid sending me multiple emails for the reason that you did not get my response. Sorry for not being able to reply to all your emails, but such emails are loading up my mail folders beyond what I can handle. Like many other faculty members in our school, I rarely hire students from unsolicited individual emails to me. If you are interested to join my laboratory, you may have a better chance of getting attention by submitting your application to [Admissions Office](https://uwaterloo.ca/admissions/) and indicate my name as "Potential Supervisor".
 
