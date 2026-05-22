@@ -13,7 +13,7 @@ Professor Jeon’s expertise lies in the broad areas of mechatronics, dynamic sy
 
 Professor Jeon is the recipient of the Rudolf Kalman Best Paper Award from the American Society of Mechanical Engineers (ASME) for the year 2010, the Discovery Accelerator Supplement Award from the NSERC for the year 2015 and the Engineer of the Year Award from AKCSE (Association of Korean-Canadian Scientists and Engineers) and KOFST (The Korean Federation of Science and Technology Societies) in 2020.
 
-He is a member of ASME, IEEE and CSME. He has served as an associate editor for ASME Journal of Dynamic Systems, Measurement and Control (2016 - 2020), IEEE Transactions on Automation Science and Engineering (2016 - 2019), IEEE/ASME Transactions on Mechatronics (2020 -) and IEEE Robotics and Automation Letters (2022 -).
+He is a member of ASME, IEEE and CSME. He has served as an associate editor for ASME Journal of Dynamic Systems, Measurement and Control (2016 - 2020), IEEE Transactions on Automation Science and Engineering (2016 - 2019), IEEE/ASME Transactions on Mechatronics (2020 - 2025) and IEEE Robotics and Automation Letters (2022 -).
 
 - [Link to Lab](https://uwaterloo.ca/wmscl){:target="_blank"} (for the list of research topics and others)
 
@@ -23,7 +23,7 @@ He is a member of ASME, IEEE and CSME. He has served as an associate editor for 
 
 Please understand that, due to the sheer volume of emails, I cannot reply to all emails of inquiries related to admission to our graduate program (or to my lab). In particular, please avoid sending me multiple emails for the reason that you did not get my response. Sorry for not being able to reply to all your emails, but such emails are loading up my mail folders beyond what I can handle. Like many other faculty members in our school, I rarely hire students from unsolicited individual emails to me. If you are interested to join my laboratory, you may have a better chance of getting attention by submitting your application to [Admissions Office](https://uwaterloo.ca/admissions/) and indicate my name as "Potential Supervisor".
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -66,3 +66,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
