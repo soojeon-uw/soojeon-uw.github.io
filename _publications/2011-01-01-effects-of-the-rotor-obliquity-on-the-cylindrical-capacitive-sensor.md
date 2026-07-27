@@ -8,4 +8,4 @@ venue: "Measurement Science and Technology"
 citation: "Hyeong-Joon Ahn and Soo Jeon (2011). \"Effects of the rotor obliquity on the cylindrical capacitive sensor.\" <i>Measurement Science and Technology</i>, 22(4), 045207."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Effects+of+the+rotor+obliquity+on+the+cylindrical+capacitive+sensor){:target="_blank"}
+(https://scholar.google.com/scholar?q=Effects+of+the+rotor+obliquity+on+the+cylindrical+capacitive+sensor){:target="_blank"}

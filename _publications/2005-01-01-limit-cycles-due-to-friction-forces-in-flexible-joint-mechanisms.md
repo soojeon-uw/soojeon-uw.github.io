@@ -8,4 +8,4 @@ venue: "Proceedings, 2005 IEEE/ASME International Conference on Advanced Intelli
 citation: "Soo Jeon and Masayoshi Tomizuka (2005). \"Limit cycles due to friction forces in flexible joint mechanisms.\" <i>Proceedings, 2005 IEEE/ASME International Conference on Advanced Intelligent Mechatronics.</i>, 723–728."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Limit+cycles+due+to+friction+forces+in+flexible+joint+mechanisms){:target="_blank"}
+(https://scholar.google.com/scholar?q=Limit+cycles+due+to+friction+forces+in+flexible+joint+mechanisms){:target="_blank"}

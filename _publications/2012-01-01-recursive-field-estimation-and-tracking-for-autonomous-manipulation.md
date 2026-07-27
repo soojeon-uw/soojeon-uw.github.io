@@ -8,4 +8,4 @@ venue: "Robotica"
 citation: "Soo Jeon (2012). \"Recursive field estimation and tracking for autonomous manipulation.\" <i>Robotica</i>, 30(5), 743–753."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Recursive+field+estimation+and+tracking+for+autonomous+manipulation){:target="_blank"}
+(https://scholar.google.com/scholar?q=Recursive+field+estimation+and+tracking+for+autonomous+manipulation){:target="_blank"}

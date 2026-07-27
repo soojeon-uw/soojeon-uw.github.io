@@ -8,4 +8,4 @@ venue: "Conference paper"
 citation: "Vahid Babakeshizadeh and Soo Jeon (2014). \"Abridged Jacobian Control and the Hypothesis of Underactuation in Human-Like Motions.\" <i>Conference paper</i>."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Abridged+Jacobian+Control+and+the+Hypothesis+of+Underactuation+in+Human-Like+Motions){:target="_blank"}
+(https://scholar.google.com/scholar?q=Abridged+Jacobian+Control+and+the+Hypothesis+of+Underactuation+in+Human-Like+Motions){:target="_blank"}

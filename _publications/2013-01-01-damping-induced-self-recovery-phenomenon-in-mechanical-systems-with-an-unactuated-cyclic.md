@@ -8,4 +8,4 @@ venue: "Journal of Dynamic Systems, Measurement, and Control"
 citation: "Dong Eui Chang and Soo Jeon (2013). \"Damping-induced self recovery phenomenon in mechanical systems with an unactuated cyclic variable.\" <i>Journal of Dynamic Systems, Measurement, and Control</i>, 135(2), 021011."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Damping-induced+self+recovery+phenomenon+in+mechanical+systems+with+an+unactuated+cyclic+variable){:target="_blank"}
+(https://scholar.google.com/scholar?q=Damping-induced+self+recovery+phenomenon+in+mechanical+systems+with+an+unactuated+cyclic+variable){:target="_blank"}

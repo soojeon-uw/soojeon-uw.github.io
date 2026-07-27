@@ -8,4 +8,4 @@ venue: "Physica E: Low-dimensional Systems and Nanostructures"
 citation: "Moslem Sadeghi-Goughari, Soo Jeon, and Hyock-Ju Kwon (2018). \"Flutter instability of cantilevered carbon nanotubes caused by magnetic fluid flow subjected to a longitudinal magnetic field.\" <i>Physica E: Low-dimensional Systems and Nanostructures</i>, 98, 184–190."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Flutter+instability+of+cantilevered+carbon+nanotubes+caused+by+magnetic+fluid+flow+subjected+to+a+longitudinal+magnetic+field){:target="_blank"}
+(https://scholar.google.com/scholar?q=Flutter+instability+of+cantilevered+carbon+nanotubes+caused+by+magnetic+fluid+flow+subjected+to+a+longitudinal+magnetic+field){:target="_blank"}

@@ -8,4 +8,4 @@ venue: "IEEE/ASME Transactions on Mechatronics"
 citation: "Mansour Ataei, Amir Khajepour, and Soo Jeon (2018). \"Reconfigurable integrated stability control for four-and three-wheeled urban vehicles with flexible combinations of actuation systems.\" <i>IEEE/ASME Transactions on Mechatronics</i>, 23(5), 2031–2041."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Reconfigurable+integrated+stability+control+for+four-and+three-wheeled+urban+vehicles+with+flexible+combinations+of+actuation+systems){:target="_blank"}
+(https://scholar.google.com/scholar?q=Reconfigurable+integrated+stability+control+for+four-and+three-wheeled+urban+vehicles+with+flexible+combinations+of+actuation+systems){:target="_blank"}

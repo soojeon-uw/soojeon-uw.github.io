@@ -8,4 +8,4 @@ venue: "Engineering Applications of Artificial Intelligence"
 citation: "Changhyeon Lee, Junwoo Jason Son, Seongwon Yoon, Soo Jeon, and Soohee Han (2024). \"Hybrid model-based and data-driven disturbance prediction for precise quadrotor trajectory tracking.\" <i>Engineering Applications of Artificial Intelligence</i>, 136, 108895."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Hybrid+model-based+and+data-driven+disturbance+prediction+for+precise+quadrotor+trajectory+tracking){:target="_blank"}
+(https://scholar.google.com/scholar?q=Hybrid+model-based+and+data-driven+disturbance+prediction+for+precise+quadrotor+trajectory+tracking){:target="_blank"}

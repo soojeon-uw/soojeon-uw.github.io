@@ -8,4 +8,4 @@ venue: "Sensors"
 citation: "Xiule Fan, Ali Jahani Amiri, Baris Fidan, and Soo Jeon (2023). \"Unsupervised Stereo Matching with Surface Normal Assistance for Indoor Depth Estimation.\" <i>Sensors</i>, 23(24), 9850."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Unsupervised+Stereo+Matching+with+Surface+Normal+Assistance+for+Indoor+Depth+Estimation){:target="_blank"}
+(https://scholar.google.com/scholar?q=Unsupervised+Stereo+Matching+with+Surface+Normal+Assistance+for+Indoor+Depth+Estimation){:target="_blank"}

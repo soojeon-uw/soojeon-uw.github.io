@@ -8,4 +8,4 @@ venue: "Control Engineering Practice"
 citation: "Joseph Cenerini, Mohamed W Mehrez, Jeong-woo Han, Soo Jeon, and William Melek (2023). \"Model Predictive Path Following Control without terminal constraints for holonomic mobile robots.\" <i>Control Engineering Practice</i>, 132, 105406."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Model+Predictive+Path+Following+Control+without+terminal+constraints+for+holonomic+mobile+robots){:target="_blank"}
+(https://scholar.google.com/scholar?q=Model+Predictive+Path+Following+Control+without+terminal+constraints+for+holonomic+mobile+robots){:target="_blank"}

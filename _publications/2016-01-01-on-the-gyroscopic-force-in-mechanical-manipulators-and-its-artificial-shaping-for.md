@@ -8,4 +8,4 @@ venue: "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems
 citation: "Nan Wei and Soo Jeon (2016). \"On the gyroscopic force in mechanical manipulators and its artificial shaping for taskspace movement coordination.\" <i>2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 3030–3035."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=On+the+gyroscopic+force+in+mechanical+manipulators+and+its+artificial+shaping+for+taskspace+movement+coordination){:target="_blank"}
+(https://scholar.google.com/scholar?q=On+the+gyroscopic+force+in+mechanical+manipulators+and+its+artificial+shaping+for+taskspace+movement+coordination){:target="_blank"}

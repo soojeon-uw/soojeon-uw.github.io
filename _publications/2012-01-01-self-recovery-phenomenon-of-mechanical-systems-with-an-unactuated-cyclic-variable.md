@@ -8,4 +8,4 @@ venue: "2012 IEEE 51st IEEE Conference on Decision and Control (CDC)"
 citation: "Dong Eui Chang and Soo Jeon (2012). \"Self recovery phenomenon of mechanical systems with an unactuated cyclic variable.\" <i>2012 IEEE 51st IEEE Conference on Decision and Control (CDC)</i>, 4430–4435."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Self+recovery+phenomenon+of+mechanical+systems+with+an+unactuated+cyclic+variable){:target="_blank"}
+(https://scholar.google.com/scholar?q=Self+recovery+phenomenon+of+mechanical+systems+with+an+unactuated+cyclic+variable){:target="_blank"}

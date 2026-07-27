@@ -9,4 +9,4 @@ citation: "Moslem Sadeghi-Goughari, Soo Jeon, Toktam Beheshtian, and Hyock-Ju Kw
 paperurl: "https://yorkspace.library.yorku.ca/items/7a93cdb6-d76f-4695-9455-535b07a8ebd9"
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Focused+Ultrasound+Surgery+of+Breast+Cancer%3A+A+Computational+Study+on+a+Realistic+Patient+Model){:target="_blank"}
+(https://scholar.google.com/scholar?q=Focused+Ultrasound+Surgery+of+Breast+Cancer%3A+A+Computational+Study+on+a+Realistic+Patient+Model){:target="_blank"}

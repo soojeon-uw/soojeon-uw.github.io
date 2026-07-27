@@ -8,4 +8,4 @@ venue: "International Conference on Autonomous and Intelligent Systems"
 citation: "Soo Jeon and Hyeong-Joon Ahn (2011). \"Autonomous manipulation combining task space control with recursive field estimation.\" <i>International Conference on Autonomous and Intelligent Systems</i>, 83–92."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Autonomous+manipulation+combining+task+space+control+with+recursive+field+estimation){:target="_blank"}
+(https://scholar.google.com/scholar?q=Autonomous+manipulation+combining+task+space+control+with+recursive+field+estimation){:target="_blank"}

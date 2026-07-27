@@ -8,4 +8,4 @@ venue: "Mechanism and Machine Theory"
 citation: "Mansour Ataei, Amir Khajepour, and Soo Jeon (2021). \"Development of a novel general reconfigurable vehicle dynamics model.\" <i>Mechanism and Machine Theory</i>, 156, 104147."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Development+of+a+novel+general+reconfigurable+vehicle+dynamics+model){:target="_blank"}
+(https://scholar.google.com/scholar?q=Development+of+a+novel+general+reconfigurable+vehicle+dynamics+model){:target="_blank"}

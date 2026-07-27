@@ -8,4 +8,4 @@ venue: "Control Engineering Practice"
 citation: "Soo Jeon and Masayoshi Tomizuka (2007). \"Benefits of acceleration measurement in velocity estimation and motion control.\" <i>Control Engineering Practice</i>, 15(3), 325–332."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Benefits+of+acceleration+measurement+in+velocity+estimation+and+motion+control){:target="_blank"}
+(https://scholar.google.com/scholar?q=Benefits+of+acceleration+measurement+in+velocity+estimation+and+motion+control){:target="_blank"}

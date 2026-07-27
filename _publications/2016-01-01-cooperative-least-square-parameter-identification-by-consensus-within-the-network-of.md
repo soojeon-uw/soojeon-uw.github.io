@@ -8,4 +8,4 @@ venue: "SAE International Journal of Passenger Cars - Electronic and Electrical 
 citation: "Mohammad Pirani Baris Fidan Mehdi Jalalmaab and Soo Jeon (2016). \"Cooperative Least Square Parameter Identification by Consensus within the Network of Autonomous Vehicles.\" <i>SAE International Journal of Passenger Cars - Electronic and Electrical Systems</i>, 9(2), 255–261."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Cooperative+Least+Square+Parameter+Identification+by+Consensus+within+the+Network+of+Autonomous+Vehicles){:target="_blank"}
+(https://scholar.google.com/scholar?q=Cooperative+Least+Square+Parameter+Identification+by+Consensus+within+the+Network+of+Autonomous+Vehicles){:target="_blank"}

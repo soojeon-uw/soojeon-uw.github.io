@@ -8,4 +8,4 @@ venue: "Journal of aerospace engineering"
 citation: "Kamal Joshi, Soo Jeon, Hyock-Ju Kwon, and Susan Tighe (2015). \"Braking availability tester for realistic assessment of aircraft landing distance on winter runways.\" <i>Journal of aerospace engineering</i>, 28(4), 04014089."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Braking+availability+tester+for+realistic+assessment+of+aircraft+landing+distance+on+winter+runways){:target="_blank"}
+(https://scholar.google.com/scholar?q=Braking+availability+tester+for+realistic+assessment+of+aircraft+landing+distance+on+winter+runways){:target="_blank"}

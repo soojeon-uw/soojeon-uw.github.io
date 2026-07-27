@@ -8,4 +8,4 @@ venue: "IFAC Proceedings Volumes"
 citation: "Soo Jeon and Masayoshi Tomizuka (2008). \"Stability of A Class of Relay Feedback Systems Arising in Controlled Mechanical Systems with Ideal Coulomb Friction.\" <i>IFAC Proceedings Volumes</i>, 41(2), 2025–2030."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Stability+of+A+Class+of+Relay+Feedback+Systems+Arising+in+Controlled+Mechanical+Systems+with+Ideal+Coulomb+Friction){:target="_blank"}
+(https://scholar.google.com/scholar?q=Stability+of+A+Class+of+Relay+Feedback+Systems+Arising+in+Controlled+Mechanical+Systems+with+Ideal+Coulomb+Friction){:target="_blank"}

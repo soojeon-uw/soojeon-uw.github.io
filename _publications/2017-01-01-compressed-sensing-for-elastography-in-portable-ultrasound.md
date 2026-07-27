@@ -8,4 +8,4 @@ venue: "Ultrasonic Imaging"
 citation: "Bonghun Shin, Soo Jeon, Jeongwon Ryu, and Hyock Ju Kwon (2017). \"Compressed sensing for elastography in portable ultrasound.\" <i>Ultrasonic Imaging</i>, 39(6), 393–413."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Compressed+sensing+for+elastography+in+portable+ultrasound){:target="_blank"}
+(https://scholar.google.com/scholar?q=Compressed+sensing+for+elastography+in+portable+ultrasound){:target="_blank"}

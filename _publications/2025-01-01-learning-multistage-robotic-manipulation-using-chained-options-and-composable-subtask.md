@@ -8,4 +8,4 @@ venue: "2025 15th France-Japan & 13th Europe-Asia Congress on Mechatronics (MECA
 citation: "Somesh Daga and Soo Jeon (2025). \"Learning Multistage Robotic Manipulation Using Chained Options and Composable Subtask Rewards.\" <i>2025 15th France-Japan &amp; 13th Europe-Asia Congress on Mechatronics (MECATRONICS)/23rd International Conference on Research and Education in Mechatronics (REM)</i>, 1–6."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Learning+Multistage+Robotic+Manipulation+Using+Chained+Options+and+Composable+Subtask+Rewards){:target="_blank"}
+(https://scholar.google.com/scholar?q=Learning+Multistage+Robotic+Manipulation+Using+Chained+Options+and+Composable+Subtask+Rewards){:target="_blank"}

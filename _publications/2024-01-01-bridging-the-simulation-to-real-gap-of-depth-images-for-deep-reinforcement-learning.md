@@ -8,4 +8,4 @@ venue: "Expert Systems with Applications"
 citation: "Yoonsu Jang, Jongchan Baek, Soo Jeon, and Soohee Han (2024). \"Bridging the simulation-to-real gap of depth images for deep reinforcement learning.\" <i>Expert Systems with Applications</i>, 253, 124310."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Bridging+the+simulation-to-real+gap+of+depth+images+for+deep+reinforcement+learning){:target="_blank"}
+(https://scholar.google.com/scholar?q=Bridging+the+simulation-to-real+gap+of+depth+images+for+deep+reinforcement+learning){:target="_blank"}

@@ -8,4 +8,4 @@ venue: "ASME Journal of Dynamic Systems, Measurement and Control"
 citation: "Soo Jeon and Masayoshi Tomizuka (2008). \"Stability of controlled mechanical systems with ideal Coulomb friction.\" <i>ASME Journal of Dynamic Systems, Measurement and Control</i>, 130(1), 011013."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Stability+of+controlled+mechanical+systems+with+ideal+Coulomb+friction){:target="_blank"}
+(https://scholar.google.com/scholar?q=Stability+of+controlled+mechanical+systems+with+ideal+Coulomb+friction){:target="_blank"}

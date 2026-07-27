@@ -8,4 +8,4 @@ venue: "Proceedings of the 2011 American Control Conference"
 citation: "Hoam Chung and Soo Jeon (2011). \"Collision-free trajectory generation of robotic manipulators using receding horizon strategy.\" <i>Proceedings of the 2011 American Control Conference</i>, 1692–1697."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Collision-free+trajectory+generation+of+robotic+manipulators+using+receding+horizon+strategy){:target="_blank"}
+(https://scholar.google.com/scholar?q=Collision-free+trajectory+generation+of+robotic+manipulators+using+receding+horizon+strategy){:target="_blank"}

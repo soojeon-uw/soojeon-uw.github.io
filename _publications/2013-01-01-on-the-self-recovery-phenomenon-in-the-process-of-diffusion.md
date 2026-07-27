@@ -8,4 +8,4 @@ venue: "arXiv preprint arXiv:1305.6658"
 citation: "Dong Eui Chang and Soo Jeon (2013). \"On the self-recovery phenomenon in the process of diffusion.\" <i>arXiv preprint arXiv:1305.6658</i>."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=On+the+self-recovery+phenomenon+in+the+process+of+diffusion){:target="_blank"}
+(https://scholar.google.com/scholar?q=On+the+self-recovery+phenomenon+in+the+process+of+diffusion){:target="_blank"}

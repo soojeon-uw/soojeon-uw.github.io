@@ -8,4 +8,4 @@ venue: "International Journal of Control"
 citation: "Mansour Ataei, Amir Khajepour, and Soo Jeon (2020). \"Model predictive rollover prevention for steer-by-wire vehicles with a new rollover index.\" <i>International Journal of Control</i>, 93(1), 140–155."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Model+predictive+rollover+prevention+for+steer-by-wire+vehicles+with+a+new+rollover+index){:target="_blank"}
+(https://scholar.google.com/scholar?q=Model+predictive+rollover+prevention+for+steer-by-wire+vehicles+with+a+new+rollover+index){:target="_blank"}

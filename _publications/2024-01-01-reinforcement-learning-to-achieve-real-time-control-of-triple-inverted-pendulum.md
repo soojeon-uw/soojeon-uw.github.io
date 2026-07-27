@@ -8,4 +8,4 @@ venue: "Engineering Applications of Artificial Intelligence"
 citation: "Jongchan Baek, Changhyeon Lee, Young Sam Lee, Soo Jeon, and Soohee Han (2024). \"Reinforcement learning to achieve real-time control of triple inverted pendulum.\" <i>Engineering Applications of Artificial Intelligence</i>, 128, 107518."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Reinforcement+learning+to+achieve+real-time+control+of+triple+inverted+pendulum){:target="_blank"}
+(https://scholar.google.com/scholar?q=Reinforcement+learning+to+achieve+real-time+control+of+triple+inverted+pendulum){:target="_blank"}

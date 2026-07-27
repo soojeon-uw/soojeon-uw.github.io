@@ -8,4 +8,4 @@ venue: "Sensors"
 citation: "Ku Jin Shin and Soo Jeon (2024). \"Nonprehensile manipulation for rapid object spinning via multisensory learning from demonstration.\" <i>Sensors</i>, 24(2)."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Nonprehensile+manipulation+for+rapid+object+spinning+via+multisensory+learning+from+demonstration){:target="_blank"}
+(https://scholar.google.com/scholar?q=Nonprehensile+manipulation+for+rapid+object+spinning+via+multisensory+learning+from+demonstration){:target="_blank"}

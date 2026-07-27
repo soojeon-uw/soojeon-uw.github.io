@@ -8,4 +8,4 @@ venue: "Robotics and Autonomous Systems"
 citation: "Jinsuk Choi, Wookyong Kwon, Kwanwoong Yoon, Seongwon Yoon, Young Sam Lee, Soo Jeon, and Soohee Han (2024). \"Suppressing violent sloshing flow in food serving robots.\" <i>Robotics and Autonomous Systems</i>, 179, 104728."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Suppressing+violent+sloshing+flow+in+food+serving+robots){:target="_blank"}
+(https://scholar.google.com/scholar?q=Suppressing+violent+sloshing+flow+in+food+serving+robots){:target="_blank"}

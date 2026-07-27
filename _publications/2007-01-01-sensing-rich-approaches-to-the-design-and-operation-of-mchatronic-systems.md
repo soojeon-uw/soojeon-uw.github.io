@@ -8,4 +8,4 @@ venue: "Proceedings of 2nd International Forum on Systems and Mechatronics"
 citation: "Chun-Chih Wang Soo Jeon Haifei Cheng Masayoshi Tomizuka (2007). \"Sensing Rich Approaches to the Design and Operation of Mchatronic Systems.\" <i>Proceedings of 2nd International Forum on Systems and Mechatronics</i>."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Sensing+Rich+Approaches+to+the+Design+and+Operation+of+Mchatronic+Systems){:target="_blank"}
+(https://scholar.google.com/scholar?q=Sensing+Rich+Approaches+to+the+Design+and+Operation+of+Mchatronic+Systems){:target="_blank"}

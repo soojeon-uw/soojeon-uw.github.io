@@ -8,4 +8,4 @@ venue: "2016 IEEE International Conference on Advanced Intelligent Mechatronics 
 citation: "Nan Wei and Soo Jeon (2016). \"Gyroscopic forces for mechanical manipulators.\" <i>2016 IEEE International Conference on Advanced Intelligent Mechatronics (AIM)</i>, 935–940."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Gyroscopic+forces+for+mechanical+manipulators){:target="_blank"}
+(https://scholar.google.com/scholar?q=Gyroscopic+forces+for+mechanical+manipulators){:target="_blank"}

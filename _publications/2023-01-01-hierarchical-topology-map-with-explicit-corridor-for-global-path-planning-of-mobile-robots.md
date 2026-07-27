@@ -8,4 +8,4 @@ venue: "Intelligent Service Robotics"
 citation: "Jeong-woo Han, Soo Jeon, and Hyock Ju Kwon (2023). \"Hierarchical Topology Map with Explicit Corridor for global path planning of mobile robots.\" <i>Intelligent Service Robotics</i>, 16(2), 195–212."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Hierarchical+Topology+Map+with+Explicit+Corridor+for+global+path+planning+of+mobile+robots){:target="_blank"}
+(https://scholar.google.com/scholar?q=Hierarchical+Topology+Map+with+Explicit+Corridor+for+global+path+planning+of+mobile+robots){:target="_blank"}

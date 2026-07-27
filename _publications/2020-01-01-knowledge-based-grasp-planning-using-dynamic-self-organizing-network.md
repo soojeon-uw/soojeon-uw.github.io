@@ -8,4 +8,4 @@ venue: "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
 citation: "Shiyi Yang and Soo Jeon (2020). \"Knowledge-Based Grasp Planning Using Dynamic Self-Organizing Network.\" <i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 9369–9376."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Knowledge-Based+Grasp+Planning+Using+Dynamic+Self-Organizing+Network){:target="_blank"}
+(https://scholar.google.com/scholar?q=Knowledge-Based+Grasp+Planning+Using+Dynamic+Self-Organizing+Network){:target="_blank"}

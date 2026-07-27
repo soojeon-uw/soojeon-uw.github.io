@@ -8,4 +8,4 @@ venue: "arXiv preprint arXiv:2103.13153"
 citation: "Mostafa Osman, Mohamed W Mehrez, Shiyi Yang, Soo Jeon, and William Melek (2021). \"End-effector stabilization of a 10-dof mobile manipulator using nonlinear model predictive control.\" <i>arXiv preprint arXiv:2103.13153</i>."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=End-effector+stabilization+of+a+10-dof+mobile+manipulator+using+nonlinear+model+predictive+control){:target="_blank"}
+(https://scholar.google.com/scholar?q=End-effector+stabilization+of+a+10-dof+mobile+manipulator+using+nonlinear+model+predictive+control){:target="_blank"}

@@ -8,4 +8,4 @@ venue: "IEEE/ASME Transactions on Mechatronics"
 citation: "Jianxiang Xu and Soo Jeon (2024). \"A new tightly-coupled dual-VIO for a mobile manipulator with dynamic locomotion.\" <i>IEEE/ASME Transactions on Mechatronics</i>, 29(4), 2929–2937."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=A+new+tightly-coupled+dual-VIO+for+a+mobile+manipulator+with+dynamic+locomotion){:target="_blank"}
+(https://scholar.google.com/scholar?q=A+new+tightly-coupled+dual-VIO+for+a+mobile+manipulator+with+dynamic+locomotion){:target="_blank"}

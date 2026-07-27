@@ -8,4 +8,4 @@ venue: "Conference paper"
 citation: "Vahid Babakeshizadeh and Soo Jeon (2014). \"Application of Self-Sensing For Energy Conservation in Electromagnetic Locking Mechanisms.\" <i>Conference paper</i>."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Application+of+Self-Sensing+For+Energy+Conservation+in+Electromagnetic+Locking+Mechanisms){:target="_blank"}
+(https://scholar.google.com/scholar?q=Application+of+Self-Sensing+For+Energy+Conservation+in+Electromagnetic+Locking+Mechanisms){:target="_blank"}

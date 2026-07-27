@@ -8,4 +8,4 @@ venue: "2017 American control conference (ACC)"
 citation: "Shiyi Yang, Nan Wei, Soo Jeon, Ricardo Bencatel, and Anouck Girard (2017). \"Real-time optimal path planning and wind estimation using Gaussian process regression for precision airdrop.\" <i>2017 American control conference (ACC)</i>, 2582–2587."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Real-time+optimal+path+planning+and+wind+estimation+using+Gaussian+process+regression+for+precision+airdrop){:target="_blank"}
+(https://scholar.google.com/scholar?q=Real-time+optimal+path+planning+and+wind+estimation+using+Gaussian+process+regression+for+precision+airdrop){:target="_blank"}

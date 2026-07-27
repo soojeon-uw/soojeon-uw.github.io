@@ -8,4 +8,4 @@ venue: "Dynamic Systems and Control Conference"
 citation: "Dong Eui Chang and Soo Jeon (2012). \"Self recovery phenomenon of mechanical systems with unactuated cyclic variables due to damping-like forces.\" <i>Dynamic Systems and Control Conference</i>, 45301, 617–624."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Self+recovery+phenomenon+of+mechanical+systems+with+unactuated+cyclic+variables+due+to+damping-like+forces){:target="_blank"}
+(https://scholar.google.com/scholar?q=Self+recovery+phenomenon+of+mechanical+systems+with+unactuated+cyclic+variables+due+to+damping-like+forces){:target="_blank"}

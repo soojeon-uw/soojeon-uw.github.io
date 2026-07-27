@@ -9,4 +9,4 @@ citation: "Cheng Zhang, Susan L Tighe, Soo Jeon, and Hyock Ju HJ Kwon (2014). \"
 paperurl: "https://trid.trb.org/view/1287725"
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=A+mechanistic-empirical+aircraft+landing+distance+prediction+method){:target="_blank"}
+(https://scholar.google.com/scholar?q=A+mechanistic-empirical+aircraft+landing+distance+prediction+method){:target="_blank"}

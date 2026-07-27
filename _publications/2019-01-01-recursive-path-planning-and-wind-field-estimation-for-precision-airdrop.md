@@ -8,4 +8,4 @@ venue: "Journal of Guidance, Control, and Dynamics"
 citation: "Shiyi Yang and Soo Jeon (2019). \"Recursive path planning and wind field estimation for precision airdrop.\" <i>Journal of Guidance, Control, and Dynamics</i>, 42(6), 1429–1437."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Recursive+path+planning+and+wind+field+estimation+for+precision+airdrop){:target="_blank"}
+(https://scholar.google.com/scholar?q=Recursive+path+planning+and+wind+field+estimation+for+precision+airdrop){:target="_blank"}

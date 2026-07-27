@@ -8,4 +8,4 @@ venue: "IEEE Transactions on Industrial Informatics"
 citation: "Shiyi Yang, Soo Jeon, and Jongeun Choi (2019). \"Multifidelity sampling for fast Bayesian shape estimation with tactile exploration.\" <i>IEEE Transactions on Industrial Informatics</i>, 16(7), 4478–4488."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Multifidelity+sampling+for+fast+Bayesian+shape+estimation+with+tactile+exploration){:target="_blank"}
+(https://scholar.google.com/scholar?q=Multifidelity+sampling+for+fast+Bayesian+shape+estimation+with+tactile+exploration){:target="_blank"}

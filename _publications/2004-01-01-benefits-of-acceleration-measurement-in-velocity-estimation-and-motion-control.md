@@ -8,4 +8,4 @@ venue: "IFAC Proceedings Volumes"
 citation: "Soo Jeon and Masayoshi Tomizuka (2004). \"Benefits of Acceleration Measurement in Velocity Estimation and Motion Control.\" <i>IFAC Proceedings Volumes</i>, 37(14), 217–222."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Benefits+of+Acceleration+Measurement+in+Velocity+Estimation+and+Motion+Control){:target="_blank"}
+(https://scholar.google.com/scholar?q=Benefits+of+Acceleration+Measurement+in+Velocity+Estimation+and+Motion+Control){:target="_blank"}

@@ -8,4 +8,4 @@ venue: "Nano Futures"
 citation: "Moslem Sadeghi-Goughari, Soo Jeon, and Hyock-Ju Kwon (2021). \"Carbon nanotube-mediated high intensity focused ultrasound.\" <i>Nano Futures</i>, 5(2), 025002."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Carbon+nanotube-mediated+high+intensity+focused+ultrasound){:target="_blank"}
+(https://scholar.google.com/scholar?q=Carbon+nanotube-mediated+high+intensity+focused+ultrasound){:target="_blank"}

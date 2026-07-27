@@ -9,4 +9,4 @@ citation: "Moslem Sadeghi-Goughari, Yanjun Qian, Soo Jeon, Sohrab Sadeghi, and H
 paperurl: "https://doi.org/10.1002/rcs.1893"
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=An+experimental+and+numerical+study+on+tactile+neuroimaging%3A+A+novel+minimally+invasive+technique+for+intraoperative+brain+imaging){:target="_blank"}
+(https://scholar.google.com/scholar?q=An+experimental+and+numerical+study+on+tactile+neuroimaging%3A+A+novel+minimally+invasive+technique+for+intraoperative+brain+imaging){:target="_blank"}

@@ -8,4 +8,4 @@ venue: "Proceedings of the Institution of Mechanical Engineers, Part D: Journal 
 citation: "Laaleh Durali, Amir Khajepour, and Soo Jeon (2018). \"Design and optimization of a cam-actuated electrohydraulic brake system.\" <i>Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering</i>, 232(7), 909–920."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Design+and+optimization+of+a+cam-actuated+electrohydraulic+brake+system){:target="_blank"}
+(https://scholar.google.com/scholar?q=Design+and+optimization+of+a+cam-actuated+electrohydraulic+brake+system){:target="_blank"}

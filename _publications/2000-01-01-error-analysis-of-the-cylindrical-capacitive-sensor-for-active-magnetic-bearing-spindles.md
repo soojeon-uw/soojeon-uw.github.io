@@ -8,4 +8,4 @@ venue: "ASME Journal of Dynamic Systems, Measurement and Control"
 citation: "Hyeong-Joon Ahn, Soo Jeon, and Dong-Chul Han (2000). \"Error analysis of the cylindrical capacitive sensor for active magnetic bearing spindles.\" <i>ASME Journal of Dynamic Systems, Measurement and Control</i>, 122(1), 102–107."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Error+analysis+of+the+cylindrical+capacitive+sensor+for+active+magnetic+bearing+spindles){:target="_blank"}
+(https://scholar.google.com/scholar?q=Error+analysis+of+the+cylindrical+capacitive+sensor+for+active+magnetic+bearing+spindles){:target="_blank"}

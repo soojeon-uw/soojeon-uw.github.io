@@ -8,4 +8,4 @@ venue: "2015 international conference on advanced robotics (icar)"
 citation: "Mehdi Jalalmaab, Barış Fidan, Soo Jeon, and Paolo Falcone (2015). \"Model predictive path planning with time-varying safety constraints for highway autonomous driving.\" <i>2015 international conference on advanced robotics (icar)</i>, 213–217."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Model+predictive+path+planning+with+time-varying+safety+constraints+for+highway+autonomous+driving){:target="_blank"}
+(https://scholar.google.com/scholar?q=Model+predictive+path+planning+with+time-varying+safety+constraints+for+highway+autonomous+driving){:target="_blank"}

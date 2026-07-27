@@ -8,4 +8,4 @@ venue: "Proceedings of the Institution of Mechanical Engineers, Part D: Journal 
 citation: "Mansour Ataei, Amir Khajepour, and Soo Jeon (2017). \"Rollover stabilities of three-wheeled vehicles including road configuration effects.\" <i>Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering</i>, 231(7), 859–871."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Rollover+stabilities+of+three-wheeled+vehicles+including+road+configuration+effects){:target="_blank"}
+(https://scholar.google.com/scholar?q=Rollover+stabilities+of+three-wheeled+vehicles+including+road+configuration+effects){:target="_blank"}

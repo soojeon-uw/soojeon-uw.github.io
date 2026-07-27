@@ -8,4 +8,4 @@ venue: "Vehicle system dynamics"
 citation: "Mansour Ataei, Amir Khajepour, and Soo Jeon (2020). \"Model predictive control for integrated lateral stability, traction/braking control, and rollover prevention of electric vehicles.\" <i>Vehicle system dynamics</i>, 58(1), 49–73."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Model+predictive+control+for+integrated+lateral+stability%2C+traction%2Fbraking+control%2C+and+rollover+prevention+of+electric+vehicles){:target="_blank"}
+(https://scholar.google.com/scholar?q=Model+predictive+control+for+integrated+lateral+stability%2C+traction%2Fbraking+control%2C+and+rollover+prevention+of+electric+vehicles){:target="_blank"}

@@ -8,4 +8,4 @@ venue: "IEEE Robotics and Automation Letters"
 citation: "Atsushi Kakogawa, Soo Jeon, and Shugen Ma (2018). \"Stiffness design of a resonance-based planar snake robot with parallel elastic actuators.\" <i>IEEE Robotics and Automation Letters</i>, 3(2), 1284–1291."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Stiffness+design+of+a+resonance-based+planar+snake+robot+with+parallel+elastic+actuators){:target="_blank"}
+(https://scholar.google.com/scholar?q=Stiffness+design+of+a+resonance-based+planar+snake+robot+with+parallel+elastic+actuators){:target="_blank"}

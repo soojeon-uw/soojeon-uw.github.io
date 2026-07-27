@@ -8,4 +8,4 @@ venue: "IEEE Transactions on Instrumentation and measurement"
 citation: "Soo Jeon, Hyeong-Joon Ahn, Dong-Chul Han, and In-Bae Chang (2001). \"New design of cylindrical capacitive sensor for on-line precision control of AMB spindle.\" <i>IEEE Transactions on Instrumentation and measurement</i>, 50(3), 757–763."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=New+design+of+cylindrical+capacitive+sensor+for+on-line+precision+control+of+AMB+spindle){:target="_blank"}
+(https://scholar.google.com/scholar?q=New+design+of+cylindrical+capacitive+sensor+for+on-line+precision+control+of+AMB+spindle){:target="_blank"}

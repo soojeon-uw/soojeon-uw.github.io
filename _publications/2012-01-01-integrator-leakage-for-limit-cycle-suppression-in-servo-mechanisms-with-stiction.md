@@ -8,4 +8,4 @@ venue: "Journal of Dynamic Systems, Measurement, and Control"
 citation: "Soo Jeon (2012). \"Integrator leakage for limit cycle suppression in servo mechanisms with stiction.\" <i>Journal of Dynamic Systems, Measurement, and Control</i>, 134(3), 034502."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Integrator+leakage+for+limit+cycle+suppression+in+servo+mechanisms+with+stiction){:target="_blank"}
+(https://scholar.google.com/scholar?q=Integrator+leakage+for+limit+cycle+suppression+in+servo+mechanisms+with+stiction){:target="_blank"}

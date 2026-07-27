@@ -8,4 +8,4 @@ venue: "Journal of Neurophysiology"
 citation: "Milad Nazarahari, Sahand Ajami, Soo Jeon, and Arash Arami (2023). \"Visual feedback decoding during bimanual circle drawing.\" <i>Journal of Neurophysiology</i>."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Visual+feedback+decoding+during+bimanual+circle+drawing){:target="_blank"}
+(https://scholar.google.com/scholar?q=Visual+feedback+decoding+during+bimanual+circle+drawing){:target="_blank"}

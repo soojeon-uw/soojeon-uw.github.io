@@ -8,4 +8,4 @@ venue: "IEEE Transactions on Education"
 citation: "Michele Bristow, Kaan Erkorkmaz, Jan Paul Huissoon, Soo Jeon, William S Owen, Steven L Waslander, and Gordon D Stubley (2011). \"A control systems concept inventory test design and assessment.\" <i>IEEE Transactions on Education</i>, 55(2), 203–212."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=A+control+systems+concept+inventory+test+design+and+assessment){:target="_blank"}
+(https://scholar.google.com/scholar?q=A+control+systems+concept+inventory+test+design+and+assessment){:target="_blank"}

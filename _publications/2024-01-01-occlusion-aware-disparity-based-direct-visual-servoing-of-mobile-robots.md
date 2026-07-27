@@ -8,4 +8,4 @@ venue: "Measurements and Instrumentation for Machine Vision"
 citation: "Xiule Fan, Baris Fidan, and Soo Jeon (2024). \"Occlusion-Aware Disparity-based Direct Visual Servoing of Mobile Robots.\" In <i>Measurements and Instrumentation for Machine Vision</i>, 228–249. CRC Press."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Occlusion-Aware+Disparity-based+Direct+Visual+Servoing+of+Mobile+Robots){:target="_blank"}
+(https://scholar.google.com/scholar?q=Occlusion-Aware+Disparity-based+Direct+Visual+Servoing+of+Mobile+Robots){:target="_blank"}

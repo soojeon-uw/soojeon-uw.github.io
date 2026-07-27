@@ -8,4 +8,4 @@ venue: "Dynamic Systems and Control Conference"
 citation: "Shiyi Yang, Soo Jeon, and Jongeun Choi (2016). \"Level-set based greedy algorithm with sequential gaussian process regression for implicit surface estimation.\" <i>Dynamic Systems and Control Conference</i>, 50701, V002T25A001."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Level-set+based+greedy+algorithm+with+sequential+gaussian+process+regression+for+implicit+surface+estimation){:target="_blank"}
+(https://scholar.google.com/scholar?q=Level-set+based+greedy+algorithm+with+sequential+gaussian+process+regression+for+implicit+surface+estimation){:target="_blank"}

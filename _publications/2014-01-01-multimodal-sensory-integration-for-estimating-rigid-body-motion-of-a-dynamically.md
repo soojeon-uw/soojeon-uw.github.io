@@ -8,4 +8,4 @@ venue: "2014 American Control Conference"
 citation: "Hyunki Bae, Soo Jeon, and Jan P Huissoon (2014). \"Multimodal sensory integration for estimating rigid body motion of a dynamically manipulated object.\" <i>2014 American Control Conference</i>, 3437–3442."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Multimodal+sensory+integration+for+estimating+rigid+body+motion+of+a+dynamically+manipulated+object){:target="_blank"}
+(https://scholar.google.com/scholar?q=Multimodal+sensory+integration+for+estimating+rigid+body+motion+of+a+dynamically+manipulated+object){:target="_blank"}

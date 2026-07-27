@@ -8,4 +8,4 @@ venue: "IEEE Transactions on Biomedical Engineering"
 citation: "Moslem Sadeghi-Goughari, Soo Jeon, and Hyock-Ju Kwon (2020). \"Analytical and numerical model of high intensity focused ultrasound enhanced with nanoparticles.\" <i>IEEE Transactions on Biomedical Engineering</i>, 67(11), 3083–3093."
 ---
 
-[Search for this publication on Google Scholar](https://scholar.google.com/scholar?q=Analytical+and+numerical+model+of+high+intensity+focused+ultrasound+enhanced+with+nanoparticles){:target="_blank"}
+(https://scholar.google.com/scholar?q=Analytical+and+numerical+model+of+high+intensity+focused+ultrasound+enhanced+with+nanoparticles){:target="_blank"}
