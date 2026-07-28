@@ -23,7 +23,7 @@ repository               : "soojeon-uw/soojeon-uw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AIM2027_photo.webp"
+  avatar           : "AIM2027_photo.png"
   name             : "Soo Jeon"
   pronouns         : # example: "she/her"  
   bio              : "Mechatronics Engineer"
